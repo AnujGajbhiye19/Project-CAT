@@ -1,0 +1,36 @@
+
+
+Thu Jul 27 23:21:26 2023
+Friend: hii Anuj
+Friend: how are you???
+Anuj: hello...
+Anuj: i'm fine
+Anuj: you?
+Friend: fine
+Friend: bye
+Anuj: -1
+
+
+Thu Jul 27 23:23:49 2023
+Anuj: -1
+
+
+Fri Jul 28 11:36:15 2023
+Anuj: hii
+Anuj: jabk
+Anuj: vshbdkv
+Friend: akdjbajfa
+Friend: ksbc
+Friend: hvjhsevbse
+Friend: evV
+Anuj: -1
+
+
+Fri Jul 28 15:49:01 2023
+Anuj: hii
+Friend: hello
+Friend: how are you
+Friend: ?
+Anuj: fine
+Anuj: fine
+Anuj: -1
